@@ -1,0 +1,8 @@
+---
+applications:
+ - name: emoji
+   memory: 64M
+   disk: 128M
+   stack: sle15
+   buildpack: staticfile_buildpack
+
